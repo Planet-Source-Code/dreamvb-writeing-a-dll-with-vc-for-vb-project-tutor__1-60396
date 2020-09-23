@@ -1,0 +1,11 @@
+//Exports file we use this to allow our VB app to know the functions to call
+
+EXPORTS
+ReportVersion
+UcaseEx
+LCaseEx
+Add
+Sum
+SHL
+SHR
+
